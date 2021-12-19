@@ -32,6 +32,15 @@ img {
   width: 80%;
 }
 
+.refresh-button{
+  margin-top: 5%;
+  font-size: 30px;
+  background-color: #4ECCA3;
+  border-style: double;
+  border-color: #232931;
+  border-radius: 5%;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
